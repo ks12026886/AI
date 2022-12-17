@@ -1,0 +1,20 @@
+body{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin: 20px;
+padding: 10px;
+background: linear-gradient(to right, beige,yellow);
+border: 5px maroon groove;
+}
+h1{
+color: blue;
+}
+h3{
+color:lime;
+}
+p{
+color: #734287;
+}
+li{
+display: inline-block;
+padding: 20px;
+}
